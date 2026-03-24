@@ -10,7 +10,7 @@ Sample [Express](https://expressjs.com/) API that uses [Awilix](https://github.c
 ## Setup
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:hamzakhalidchouhdary/express-di.git
 cd express-di
 npm install
 ```
